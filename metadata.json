@@ -1,0 +1,6 @@
+{
+  "name": "Ankit — Video Editor & AI Visual Storyteller",
+  "description": "Ultra-premium portfolio and showreel of Ankit, a professional Video Editor, AI Creator, and Visual Storyteller specializing in Instagram Reels, Brand Advertisements, AI VFX & CGI, Cinematic Edits, and Motion Graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
